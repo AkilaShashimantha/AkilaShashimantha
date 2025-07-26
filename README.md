@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-repo-name/main/profile-banner-light.png#gh-light-mode-only" alt="AkilaShashimantha Profile Banner Light Mode" width="100%">
-  <img src="https://user-images.github.com/your-username/your-repo-name/main/profile-banner-dark.png#gh-dark-mode-only" alt="AkilaShashimantha Profile Banner Dark Mode" width="100%">
-</p>
+
 
 <h1 align="center">🌟 Welcome to AkilaShashimantha's Special Sanctuary! 🌟</h1>
 
@@ -35,7 +32,7 @@ This `AkilaShashimantha` repository is a unique space on GitHub, acting as my pu
   </p>
   <ul>
     <li><b>Languages:</b> JavaScript (ES6+), Python, Java, Go</li>
-    <li><b>Frameworks:</b> React, Angular, Vue.js, Node.js, Django, Flask, <b>Flutter (Adapting)</b></li>
+    <li><b>Frameworks:</b> React, Angular, Vue.js, Node.js, Django, Flask, <b>Flutter </b></li>
     <li><b>Databases:</b> PostgreSQL, MongoDB, MySQL, Redis</li>
     <li><b>Cloud & DevOps:</b> AWS, Docker, Kubernetes, Git, CI/CD</li>
     <li><b>Other:</b> RESTful APIs, GraphQL, Agile Methodologies, UI/UX Principles</li>
