@@ -54,7 +54,7 @@ Let's collaborate, share ideas, or just connect!
 
 * **GitHub:** [AkilaShashimantha](https://github.com/AkilaShashimantha) (You're already here!)
 * **LinkedIn:** [Akila Shashimantha](https://www.linkedin.com/in/akila-shashimantha-a44a72360/)
-* **Portfolio/Website:** [AkilaShashimantha Portfolio](https://akilashashimantha.free.nf/?i=1)
+* **Portfolio/Website:** [AkilaShashimantha Portfolio](https://akilashashimantha.page.gd/)
 * **Email:** [akilashashimantha84@gmail.com](mailto:akilashashimantha84@gmail.com)
 
 ---
