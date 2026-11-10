@@ -1,64 +1,72 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=140&section=header&text=Akila%20Shashimantha&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" />
 
-<h1 align="center">🌟 Welcome to AkilaShashimantha's Special Sanctuary! 🌟</h1>
+<a href="https://akilashashimantha.page.gd/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=520&lines=Full-stack+%26+mobile+developer;I+build+things+with+Flutter%2C+React+and+Node;Currently+learning+cloud+and+DevOps" alt="Typing intro" />
+</a>
 
-<p align="center">
-  This repository is more than just code; it's a digital canvas, a personal playground, and a reflection of my journey in the vast universe of technology and creativity.
+<p>
+  <a href="https://www.linkedin.com/in/akila-shashimantha-a44a72360/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://akilashashimantha.page.gd/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:akilashashimantha84@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AkilaShashimantha&style=flat-square&color=3b82f6&label=Profile+views" alt="Profile views" />
 </p>
 
----
+</div>
 
-## 🚀 About This Special Place
+### About me
 
-This `AkilaShashimantha` repository is a unique space on GitHub, acting as my public profile README. Here, you'll discover a curated collection of my interests, ongoing projects, skills, and perhaps a touch of personal philosophy. It's designed to give you a quick, yet insightful, glimpse into who I am as a developer and creator.
+I'm a developer who enjoys turning ideas into working products, from mobile apps in Flutter to web apps and the APIs behind them. I like clean code, simple interfaces, and learning something new with every project.
 
----
+- Working on full-stack and cross-platform mobile projects
+- Exploring cloud infrastructure, containers and CI/CD
+- Open to collaboration on open-source and freelance work
+- Reach me at **akilashashimantha84@gmail.com**
 
-## ✨ What You'll Find Here
+### Tech stack
 
-<details>
-  <summary><b>My Developer Journey</b></summary>
-  <br>
-  <p>
-    Embarking on the path of a developer has been a thrilling adventure. From my first "Hello World" to architecting complex systems, every line of code tells a story of learning, problem-solving, and continuous growth. I'm passionate about building innovative solutions and contributing to the open-source community.
-  </p>
-</details>
+**Languages**
 
-<details>
-  <summary><b>Skills & Toolset</b></summary>
-  <br>
-  <p>
-    I thrive on learning and adapting to new technologies. My core toolkit includes:
-  </p>
-  <ul>
-    <li><b>Languages:</b> JavaScript (ES6+), Python, Java, Go</li>
-    <li><b>Frameworks:</b> React, Angular, Vue.js, Node.js, Django, Flask, <b>Flutter </b></li>
-    <li><b>Databases:</b> PostgreSQL, MongoDB, MySQL, Redis</li>
-    <li><b>Cloud & DevOps:</b> AWS, Docker, Kubernetes, Git, CI/CD</li>
-    <li><b>Other:</b> RESTful APIs, GraphQL, Agile Methodologies, UI/UX Principles</li>
-  </ul>
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,dart&theme=dark" alt="Languages" />
+</p>
 
----
+**Frameworks & libraries**
 
-> "The only way to do great work is to love what you do."
-> <br>— Steve Jobs
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,django,flask,flutter,tailwind&theme=dark" alt="Frameworks" />
+</p>
 
----
+**Databases**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" alt="Databases" />
+</p>
 
-## 🌐 Connect With Me
+**Cloud, DevOps & tools**
 
-Let's collaborate, share ideas, or just connect!
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,graphql,postman,figma,vscode&theme=dark" alt="Tools" />
+</p>
 
-* **GitHub:** [AkilaShashimantha](https://github.com/AkilaShashimantha) (You're already here!)
-* **LinkedIn:** [Akila Shashimantha](https://www.linkedin.com/in/akila-shashimantha-a44a72360/)
-* **Portfolio/Website:** [AkilaShashimantha Portfolio](https://akilashashimantha.page.gd/)
-* **Email:** [akilashashimantha84@gmail.com](mailto:akilashashimantha84@gmail.com)
+### GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkilaShashimantha&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaShashimantha&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AkilaShashimantha&hide_border=true&theme=tokyonight&background=0f172a" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaShashimantha&hide_border=true&bg_color=0f172a&color=93c5fd&line=3b82f6&point=ffffff&area=true" width="100%" alt="Contribution graph" />
+</div>
 
 ---
 
 <p align="center">
-  Thank you for visiting! ✨
+  <i>"The only way to do great work is to love what you do."</i> &mdash; Steve Jobs
 </p>
