@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=140&section=header&text=Akila%20Shashimantha&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <a href="https://akilashashimantha.page.gd/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=520&lines=Full-stack+%26+mobile+developer;I+build+things+with+Flutter%2C+React+and+Node;Currently+learning+cloud+and+DevOps" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=520&lines=Full-stack+%26+mobile+developer;I+build+things+with+Flutter%2C+React+and+Node" alt="Typing intro" />
 </a>
 
 <p>
@@ -20,49 +20,43 @@
 I'm a developer who enjoys turning ideas into working products, from mobile apps in Flutter to web apps and the APIs behind them. I like clean code, simple interfaces, and learning something new with every project.
 
 - Working on full-stack and cross-platform mobile projects
-- Exploring cloud infrastructure, containers and CI/CD
+- Exploring machine learning and data analysis with Python
 - Open to collaboration on open-source and freelance work
 - Reach me at **akilashashimantha84@gmail.com**
 
 ### Tech stack
 
-**Languages**
+**Mobile & languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,dart&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,go,python,js,ts,php&theme=dark" alt="Languages" />
 </p>
 
-**Frameworks & libraries**
+**Web & backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,django,flask,flutter,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css&theme=dark" alt="Web and backend" />
 </p>
 
-**Databases**
+**Data, ML & databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" alt="Databases" />
-</p>
-
-**Cloud, DevOps & tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,graphql,postman,figma,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=sklearn,firebase,mongodb,sqlite&theme=dark" alt="Data and databases" />
 </p>
 
 ### GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkilaShashimantha&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaShashimantha&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkilaShashimantha&theme=tokyonight" width="100%" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkilaShashimantha&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkilaShashimantha&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AkilaShashimantha&hide_border=true&theme=tokyonight&background=0f172a" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaShashimantha&hide_border=true&bg_color=0f172a&color=93c5fd&line=3b82f6&point=ffffff&area=true" width="100%" alt="Contribution graph" />
 </div>
 
 ---
