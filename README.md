@@ -84,3 +84,5 @@ I'm a developer who enjoys turning ideas into working products, from mobile apps
 <p align="center">
   <i>"The only way to do great work is to love what you do."</i> &mdash; Steve Jobs
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0f172a&height=60&section=footer" width="100%" />
