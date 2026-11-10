@@ -28,21 +28,41 @@ I'm a developer who enjoys turning ideas into working products, from mobile apps
 
 **Mobile & languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,go,python,js,ts,php&theme=dark" alt="Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" /><br /><sub><b>Flutter</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48" height="48" alt="Dart" /><br /><sub><b>Dart</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" alt="Go" /><br /><sub><b>Go</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
+  </tr>
+</table>
 
 **Web & backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css&theme=dark" alt="Web and backend" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+  </tr>
+</table>
 
 **Data, ML & databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,firebase,mongodb,sqlite&theme=dark" alt="Data and databases" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="scikit-learn" /><br /><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" /><br /><sub><b>Firebase</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" /><br /><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
 
 ### GitHub activity
 
