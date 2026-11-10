@@ -67,7 +67,7 @@ I'm a developer who enjoys turning ideas into working products, from mobile apps
 ### GitHub activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkilaShashimantha&theme=tokyonight" width="100%" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkilaShashimantha&theme=tokyonight" width="100%" alt="GitHub profile details" />
 </div>
 
 <div align="center">
